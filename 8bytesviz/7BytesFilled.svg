@@ -1,0 +1,24 @@
+
+<svg width="480" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="60" fill="#f0f0f0"/>
+  <g stroke="#000" stroke-width="1">
+    <rect x="0" y="0" width="60" height="60" fill="#03f0fc"/>
+    <rect x="60" y="0" width="60" height="60" fill="#03f0fc"/>
+    <rect x="120" y="0" width="60" height="60" fill="#03f0fc"/>
+    <rect x="180" y="0" width="60" height="60" fill="#03f0fc"/>
+    <rect x="240" y="0" width="60" height="60" fill="#03f0fc"/>
+    <rect x="300" y="0" width="60" height="60" fill="#03f0fc"/>
+    <rect x="360" y="0" width="60" height="60" fill="#03f0fc"/>
+    <rect x="420" y="0" width="60" height="60" fill="#fff"/>
+  </g>
+  <g font-family="monospace" font-size="16" text-anchor="middle" fill="#000">
+    <text x="30" y="30" dy=".35em">0</text>
+    <text x="90" y="30" dy=".35em">1</text>
+    <text x="150" y="30" dy=".35em">2</text>
+    <text x="210" y="30" dy=".35em">3</text>
+    <text x="270" y="30" dy=".35em">4</text>
+    <text x="330" y="30" dy=".35em">5</text>
+    <text x="390" y="30" dy=".35em">6</text>
+    <text x="450" y="30" dy=".35em">7</text>
+  </g>
+</svg>

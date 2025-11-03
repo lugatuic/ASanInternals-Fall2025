@@ -1,0 +1,23 @@
+
+<svg width="850" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="80" height="60" fill="#ee7b7b" stroke="black"/>
+  <text x="40" y="35" font-size="14" text-anchor="middle">redzone1</text>
+
+  <rect x="80" y="0" width="130" height="60" fill="white" stroke="black"/>
+  <text x="145" y="35" font-size="14" text-anchor="middle">mem1</text>
+
+  <rect x="210" y="0" width="80" height="60" fill="#ee7b7b" stroke="black"/>
+  <text x="250" y="35" font-size="14" text-anchor="middle">redzone2</text>
+
+  <rect x="290" y="0" width="130" height="60" fill="white" stroke="black"/>
+  <text x="355" y="35" font-size="14" text-anchor="middle">mem2</text>
+
+  <rect x="420" y="0" width="80" height="60" fill="#ee7b7b" stroke="black"/>
+  <text x="460" y="35" font-size="14" text-anchor="middle">redzone3</text>
+
+  <rect x="500" y="0" width="130" height="60" fill="white" stroke="black"/>
+  <text x="565" y="35" font-size="14" text-anchor="middle">mem3</text>
+
+  <rect x="630" y="0" width="80" height="60" fill="#ee7b7b" stroke="black"/>
+  <text x="670" y="35" font-size="14" text-anchor="middle">redzone4</text>
+</svg>
