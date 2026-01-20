@@ -7,5 +7,5 @@ The (Old) ASan Github Wiki that fills in some gaps: https://github.com/google/sa
 
 
 # Other links:
-The slides I used: [ASanInternalsSlides.pdf]
-The recording of this talk: Not available yet, but will be linked here soon™️. It'll also be posted 1on the LUG Discord!
+The slides I used: [ASanInternalsSlides.pdf](ASanInternalsSlides.pdf)
+The recording of this talk: [https://www.youtube.com/watch?v=xu6Y767RLUk](https://www.youtube.com/watch?v=xu6Y767RLUk)
